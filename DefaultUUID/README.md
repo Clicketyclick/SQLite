@@ -57,6 +57,7 @@ Please note that this function should be in parentheses!
 ## Example
 
 ```sql
+.mode insert
 REPLACE INTO test(note) values("hello world");
 REPLACE INTO test(note) values("hello again, world");
 REPLACE INTO test(note) values("hello to the entire world");
