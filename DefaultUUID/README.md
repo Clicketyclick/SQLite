@@ -83,5 +83,5 @@ And the row with `id` = "x" fails, the NULL id's are replaced with random UUID's
 
 ## References
 
-- [https://stackoverflow.com/a/66625212](Stackoverflow: SQLite - Generate GUID/UUID on SELECT INTO statement)
-- 
+- [Stackoverflow: SQLite - Generate GUID/UUID on SELECT INTO statement](https://stackoverflow.com/a/66625212)
+- [SQLitetutorial.net: SQLite datetime Function](https://www.sqlitetutorial.net/sqlite-date-functions/sqlite-datetime-function/)
